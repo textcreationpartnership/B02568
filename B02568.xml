@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Ann, wife to the late Baron Slane</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02568</idno>
+            <idno type="STC">Wing C880</idno>
+            <idno type="STC">ESTC R170936</idno>
+            <idno type="EEBO-CITATION">52211897</idno>
+            <idno type="OCLC">ocm 52211897</idno>
+            <idno type="VID">175467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175467)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Ann, wife to the late Baron Slane</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>The Lady Slane, not receiving her widows' portion in Ireland, petitions the English Parliament for redress.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dower --  Ireland --  Early works to 1800.</term>
+               <term>Decedents' family maintenance --  Ireland --  Cases --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175467:1" rendition="simple:additions"/>
+            <head>The CASE of <hi>ANN,</hi> Wife to the late Baron <hi>SLANE.</hi>
+            </head>
+            <p>BY Marriage-Articles dated and executed in <hi>September,</hi> 1684. between the Counteſs-Dowager of <hi>Drogheda</hi> (Grandmother and Guardian to the ſaid Baron) and other Friends of the ſaid Lord and <hi>Ann</hi> his Wiſe; in Conſideration of 6000 <hi>l.</hi> Portion, the Eſtate, which was worth 2500 <hi>l. per Annum,</hi> was agreed to be ſettled on Truſtees for the following Uſes; <hi>viz.</hi> 2000 <hi>l. per Annum</hi> upon the Iſſue Male, with fair Proviſion for Younger Children; 800 <hi>l. per Annum</hi> Jointure; and alſo 200 <hi>l. per Annum</hi> to the ſaid <hi>Ann</hi>'s Separate Uſe Yearly, during their Joint Lives, and Land to be ſecured for its Payment.</p>
+            <p>The ſaid <hi>Ann</hi> (in order to obtain an Allowance out of the Lord <hi>Slane</hi>'s Eſtate) did, in the Year 1695, prove before the Lords Juſtices of <hi>England,</hi> That Three thouſand Pounds of the ſaid Portion was paid on the very Day of her Marriage; and that the remaining Three thouſand Pounds was paid in a ſhort time afterwards.</p>
+            <p>On the 14th of <hi>June,</hi> 1690, (which was indeed long after the Marriage, though within a few days after he came to Age) the late Lord <hi>Slane,</hi> by Deeds of Settlement, made in purſuance of the ſaid Articles before executed, did convey the Eſtate to Truſtees upon the aforeſaid Uſes, and did engage 300 <hi>l. per Ann.</hi> of Land, for the Payment of the ſaid 200 <hi>l. per Ann.</hi> to his Lady's own Uſe. <hi>Being under Age, he could not execute ſuch Deeds ſooner.</hi>
+            </p>
+            <p>It muſt be confeſs'd, That in <hi>Eaſter</hi>-Term, 1691, the ſaid Lord <hi>Slane</hi> was outlaw'd for High Treaſon, upon the account of being in Arms for the late K. <hi>James</hi> in <hi>Ireland;</hi> and the Treaſon mentioned in the Indictment is alledged to be committed before the Settlement made by my Lord: But the Settlement (<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s has been ſtated) was made only in purſuance of the Articles of Marriage <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were long before agreed to by the Friends, Guardian, and Grandmother of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid Lord, and was made as ſoon as my Lord came to Age; and alſo upon the valuable Conſideration of having received 6000 <hi>l.</hi> Portion with his Lady: (Which is in truth a great Portion in that Country, where they generally give little or none.)</p>
+            <p>Upon his being Outlawed the whole Eſtate was Granted to the Earl of <hi>Athione</hi> in the year 1692.</p>
+            <p>And in the year 1695, the ſaid Earl of <hi>Athlone</hi> obtained an Act of Parlia<g ref="char:EOLhyphen"/>ment in <hi>Ireland</hi> for the confirmation of his ſaid Grant, without any Allowance for the ſaid <hi>Ann</hi> or her Iſſue.</p>
+            <p>She has a Daughter as well as her ſelf to provide for, and ſhe had no part of that ſeparate Allowance which was provided by the Articles till 1696, from which time the Earl of <hi>Athlone</hi> has been pleaſed to allow her 200 <hi>l. per Ann.</hi> ſo that there is a great Arrears of that ſeparate Allowance ſtill unpaid.</p>
+            <p>Now foraſmuch as the ſaid Lady <hi>Slane</hi> brought ſuch a very conſiderable Portion, as Six thouſand Pounds is in that Country, and that ſhe hath no Means left to ſupport her ſelf and Child, and that alſo all her Relations are become unable to Maintain and Relieve her; and withal ſince the ſaid Eſtate is the freeſt from Incumbrances of any that is Forfeited;</p>
+            <p>
+               <hi>She therefore hopes from the Juſtice of an</hi> Engliſh <hi>Parliament, that in tender Commiſeration of her ſelſ and Child, before the Act relating to the</hi> Iriſh <hi>Forfeitures is Paſſed, ſome compaſſionate Care will be taken of her and her poor Diſtreſſed and Innocent Daughter.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175467:2" rendition="simple:additions"/>
+            <p>Wiſe to the late Ba<g ref="char:EOLhyphen"/>ron <hi>Slane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
